@@ -1,4 +1,4 @@
-# analytics-portfolio
+# Analytics-portfolio
 Goal: Build analytics + consulting portfolio by graduation  
 Skills: Excel, SQL, Power BI, Tableau, Financial Modelling, Consulting Cases  
 
