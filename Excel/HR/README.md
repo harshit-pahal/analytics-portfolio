@@ -5,7 +5,7 @@ Analyze employee data to uncover HR insights like attrition, salary trends, and 
 
 🧹 Data Cleaning Steps
 - Removed duplicate Employee IDs.
-- Standardized missing values (`UNKNOWN` → `Unknown`).
+- Standardized missing values (`BLANK, #N/A` → `Unknown`).
 - Fixed inconsistent department and job titles.
 - Converted dates to proper format.
 - Ensured numeric columns (Salary, Rating) are valid.
